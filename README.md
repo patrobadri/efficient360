@@ -1,8 +1,6 @@
 # Efficient360: Efficient Vision Transformer
 The efficient 360 framework is a collection of transformer models in various dimensions.
 
-#Please find the details about the Efficient360 paper [here](https://arxiv.org/pdf/2302.08374v1.pdf).
-
 ## Various Dimensions of Efficient360
 ![Efficient 360](images/Transformer_ven_diagram_E360_v3.png) 
 
