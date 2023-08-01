@@ -1,7 +1,7 @@
 # Efficient360: Efficient Vision Transformer
 The efficient 360 framework is a collection of transformer models in various dimensions.
 
-Please find the details about the Efficient360 paper [here](https://arxiv.org/pdf/2302.08374v1.pdf).
+#Please find the details about the Efficient360 paper [here](https://arxiv.org/pdf/2302.08374v1.pdf).
 
 ## Various Dimensions of Efficient360
 ![Efficient 360](images/Transformer_ven_diagram_E360_v3.png) 
@@ -37,5 +37,5 @@ Please find the details about the Efficient360 paper [here](https://arxiv.org/pd
  ## Transfer Learning results of various datasets like CIFAR10, CIFAR100, Pet, Flower, and Cars datasets, The models are  pre-trained on ImageNet-1K and ImageNet-22K datasets.
 ![SOTA3](images/transfer_learning.png) 
 
- ## Long Range Arena (LRA) Benchmark Datasets  and its corresponding tasks.
+ ## Long Range Arena (LRA) Benchmark Datasets  and their corresponding tasks.
 ![SOTA4](images/lra.png)
